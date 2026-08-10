@@ -170,20 +170,20 @@ reliance-stock-direction-classification/
 
 ## 🚀 How to Run
 
-### 1. Clone the repository
+#### 1. Clone the repository
 
 ```bash
 git clone https://github.com/<your-username>/reliance-stock-direction-classification.git
 cd reliance-stock-direction-classification
 ```
 
-### 2. Install dependencies
+#### 2. Install dependencies
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn xgboost yfinance
 ```
 
-### 3. Open the notebook
+#### 3. Open the notebook
 
 Open:
 
@@ -192,3 +192,13 @@ reliance_stock_direction_classification.ipynb
 ```
 
 The notebook can be run using Jupyter Notebook, JupyterLab, or Google Colab.
+
+---
+
+## Author
+
+<div align="center">
+
+[![Sridevi S](https://img.shields.io/badge/Sridevi%20S-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23f2003639)
+
+</div>
